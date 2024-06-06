@@ -11,7 +11,7 @@
 <p align='left'> <img src='https://komarev.com/ghpvc/?username=pentahead&style=flat-square&color=blueviolet' alt='pentahead' /> </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pentahead&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pentahead&theme=midnight-purple&show_icons=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pentahead&theme=midnight-purple&show_icons=true&layout=compact&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5)
 
 
 
