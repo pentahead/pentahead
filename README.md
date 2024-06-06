@@ -1,5 +1,5 @@
 # Hey 👋, This is Dhiyaul Faruq
-[![Gmail Badge](https://img.shields.io/badge/Dhiyaaf19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dhiyaaf19@gmail.com)](mailto:dhiyaaf19@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/Dhiyaaf19@gmail.com-143?style=for-the-badge&logo=gmail&logoColor=black&color=black&labelColor=darkorchid&link=mailto:dhiyaaf19@gmail.com)](mailto:dhiyaaf19@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/Dhiyaul%20Faruq-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dhiyaulfaruq/)](https://www.linkedin.com/in/dhiyaulfaruq/) 
 [![Github Badge](https://img.shields.io/badge/Pentahead-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/pentahead/)](https://www.github.com/pentahead/)
 
