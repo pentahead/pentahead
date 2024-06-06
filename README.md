@@ -8,7 +8,7 @@
 ## Some of my Github Stats
 <p align='left'> <img src='https://komarev.com/ghpvc/?username=pentahead' alt='pentahead' /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=pentahead&theme=midnight-purple_icons=true)](https://github.com/pentahead/github-readme-stats)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=pentahead&theme=midnight-purple&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pentahead&layout=compact)](https://github.com/pentahead/github-readme-stats)
 
 ---
