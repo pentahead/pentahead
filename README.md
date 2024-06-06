@@ -1,7 +1,3 @@
-Sure, here's a refined version of your GitHub profile README:
-
----
-
 ## Hey 👋, This is Dhiyaul Faruq
 [![Gmail Badge](https://img.shields.io/badge/-dhiyaaf19@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dhiyaaf19@gmail.com)](mailto:dhiyaaf19@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Dhiyaul%20Faruq-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhiyaul-faruq/)](https://www.linkedin.com/in/dhiyaul-faruq/) 
@@ -17,4 +13,4 @@ Sure, here's a refined version of your GitHub profile README:
 
 ---
 
-Feel free to copy and paste this into your GitHub profile README.
+
