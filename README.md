@@ -12,5 +12,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pentahead&layout=compact)](https://github.com/pentahead/github-readme-stats)
 
 ---
+<p align="left">
+  <a href="https://github.com/adyfp24">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adyfp24&theme=algolia&hide_border=false"/>
+</a>
+<a href="https://github.com/adyfp24">
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adyfp24&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
