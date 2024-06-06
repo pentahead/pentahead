@@ -10,7 +10,7 @@
 # Some of my Github Stats
 <p align='left'> <img src='https://komarev.com/ghpvc/?username=pentahead&style=flat-square&color=blueviolet' alt='pentahead' /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pentahead&theme=midnight-purple&card_height=180)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pentahead&theme=midnight-purple&card_height=190)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pentahead&theme=midnight-purple&show_icons=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
 
 
