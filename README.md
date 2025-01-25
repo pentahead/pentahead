@@ -1,10 +1,10 @@
 # Hey 👋 This is Dhiyaul Faruq!
 <div align="left">
-  <a href="mailto:dhiyaaf19@gmail.com">
-    <img src="https://img.shields.io/badge/Dhiyaaf19@gmail.com-143?style=for-the-badge&logo=gmail&logoColor=black&color=black&labelColor=darkorchid" alt="Email me">
+  <a href="mailto:faruq.xtkj1.simdig@gmail.com">
+    <img src="https://img.shields.io/badge/faruq.xtkj1.simdig@gmail.com-143?style=for-the-badge&logo=gmail&logoColor=black&color=black&labelColor=darkorchid" alt="Email me">
   </a>
   <a href="https://www.linkedin.com/in/dhiyaulfaruq/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhiyaul%20Faruq?style=for-the-badge&logo=linkedin&logoColor=black&color=black&labelColor=darkorchid&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIgLjA1MkM1LjM4Ni4wNTIgMCA1LjQzMiAwIDEyYzAgNi41NjIgNS4zODYgMTEuOTQ4IDEyIDExLjk0OCA2LjU2IDAgMTItNS4zODQgMTItMTEuOTQ4IDAtNi41NjgtNS4zOTQtMTEuOTUyLTEyLTExLjk1em0tLjA0NyAyLjgxNGMyLjMwNCAwIDMuOTYxIDEuNjU3IDMuOTYxIDMuOTY2IDAgMi4zMDYtMS42NTcgMy45NjEtMy45NiAzLjk2MS0yLjMwOSAwLTMuOTYyLTEuNjUzLTMuOTYyLTMuOTYxLjAwNC0yLjMxIDEuNjUzLTMuOTY2IDMuOTYyLTMuOTY2ek0yLjA2IDguMjc0aDQuMjMyVjIxLjA2SDIuMDYzem0uMjk2LTIuMjgyYzIuNTEgMCA0LjUyNiAxLjk5OCA0LjUyNiA0LjUyNiAwIDIuNTEtMiAxLjkyNi00LjUyNiAxLjk5Ny0yLjQ5Ni4wMDQtNC40OTgtMS43OTYtNC40OTgtNC4yNzggMC0yLjQ5MyAyLjAwNS00LjUgNC40OTgtNC41eiIvPjwvc3ZnPg==" alt="Connect on LinkedIn">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Dhiyaul%20Faruq?style=for-the-badge&logo=linkedin&logoColor=black&color=black&labelColor=darkorchid&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIgLjA1MkM1LjM4Ni4wNTIgMCA1LjQzMiAwIDEyYzAgNi41NjIgNS4zODYgMTEuOTQ4IDEyIDExLjk0OCA2LjU2IDAgMTItNS4zODQgMTItMTEuOTQ4IDAtNi41NjgtNS4zOTQtMTEuOTUyLTEyLTExLjk1em0tLjA0NyAyLjgxNGMyLjMwNCAwIDMuOTYxIDEuNjU3IDMuOTYxIDMuOTY2IDAgMi4zMDYtMS42NTcgMy45NjEtMy45NiAzLjk2MS0yLjMwOSAwLTMuOTYyLTEuNjUzLTMuOTYyLTMuOTYxLjAwNC0yLjMxIDEuNjUzLTMuOTY2IDMuOTYyLTMuOTY2ek0yLjA2IDguMjc0aDQuMjMyVjIxLjA2SDIuMDYzem0uMjk2LTIuMjgyYzIuNTEgMCA0LjUyNiAxLjk5OCA0LjUyNiA0LjUyNiAwIDIuNTEtMiAxLjkyNi00LjUyNiAxLjk5Ny0yLjQ5Ni4wMDQtNC40OTgtMS43OTYtNC40OTgtNC4yNzggMC0yLjQ5MyAyLjAwNS00LjUgNC40OTgtNC41eiIvPjwvc3ZnPg==" alt="Connect on LinkedIn">
   </a>
   <a href="https://www.github.com/pentahead/">
     <img src="https://img.shields.io/badge/Pentahead-%23121011.svg?style=for-the-badge&logo=github&logoColor=black&color=black&labelColor=darkorchid" alt="Check out my GitHub">
