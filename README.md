@@ -1,9 +1,16 @@
 # Hey 👋 This is Dhiyaul Faruq!
-[![Gmail Badge](https://img.shields.io/badge/Dhiyaaf19@gmail.com-143?style=for-the-badge&logo=gmail&logoColor=black&color=black&labelColor=darkorchid "Email me")](mailto:dhiyaaf19@gmail.com) 
+<p align="center">
+  <a href="mailto:dhiyaaf19@gmail.com">
+    <img src="https://img.shields.io/badge/Dhiyaaf19@gmail.com-143?style=for-the-badge&logo=gmail&logoColor=black&color=black&labelColor=darkorchid" alt="Email me">
+  </a>
+  <a href="https://www.linkedin.com/in/dhiyaulfaruq/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhiyaul%20Faruq?style=for-the-badge&logo=linkedin&logoColor=black&color=black&labelColor=darkorchid" alt="Connect on LinkedIn">
+  </a>
+  <a href="https://www.github.com/pentahead/">
+    <img src="https://img.shields.io/badge/Pentahead-%23121011.svg?style=for-the-badge&logo=github&logoColor=black&color=black&labelColor=darkorchid" alt="Check out my GitHub">
+  </a>
+</p>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dhiyaul%20Faruq?style=for-the-badge&logo=linkedin&logoColor=black&color=black&labelColor=darkorchid "Connect on LinkedIn")](https://www.linkedin.com/in/dhiyaulfaruq/)
-
-[![Github Badge](https://img.shields.io/badge/Pentahead-%23121011.svg?style=for-the-badge&logo=github&logoColor=black&color=black&labelColor=darkorchid "Check out my GitHub")](https://www.github.com/pentahead/)
 
 <p align='left'>👋 Hi there! I'm an undergraduate student at the Faculty of Computer Science, University of Jember, majoring in Information Technology. Passionate about coding, problem-solving, and continuously learning new technologies. Let's build something amazing together! check my linkedIn too!</p>
 
