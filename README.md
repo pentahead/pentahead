@@ -1,7 +1,7 @@
 # Hey 👋 This is Dhiyaul Faruq!
 <div align="left">
   <a href="mailto:faruq.xtkj1.simdig@gmail.com">
-    <img src="https://img.shields.io/badge/faruq.xtkj1.simdig@gmail.com-143?style=for-the-badge&logo=gmail&logoColor=black&color=black&labelColor=darkorchid" alt="Email me">
+    <img src="https://img.shields.io/badge/email-143?style=for-the-badge&logo=gmail&logoColor=black&color=black&labelColor=darkorchid" alt="Email me">
   </a>
   <a href="https://www.linkedin.com/in/dhiyaulfaruq/">
     <img src="https://img.shields.io/badge/LinkedIn-Dhiyaul%20Faruq?style=for-the-badge&logo=linkedin&logoColor=black&color=black&labelColor=darkorchid" alt="Connect on LinkedIn">
