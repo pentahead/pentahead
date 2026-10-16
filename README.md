@@ -36,8 +36,7 @@ Feel free to explore my repositories or connect with me on [LinkedIn](https://ww
 ### GitHub Statistics
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pentahead&show_icons=true&hide_border=true&bg_color=0B1120&title_color=FF9500&icon_color=FF9500&text_color=E5E7EB&ring_color=FF9500" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=pentahead&theme=dark&hide_border=true&background=0B1120&ring=FF9500&fire=FF9500&currStreakLabel=FF9500&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak" />
+    <img height="180" src="https://streak-stats.demolab.com?user=pentahead&theme=dark&hide_border=true&background=0B1120&ring=FF9500&fire=FF9500&currStreakLabel=FF9500&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak" />
 </p>
 
 <p align="left">
