@@ -10,8 +10,9 @@
   <a href="https://github.com/pentahead">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=000000&labelColor=FF9500" alt="GitHub" />
   </a>
+  <div align= "center">
   <img src="https://komarev.com/ghpvc/?username=pentahead&style=flat-square&color=FF9500&label=PROFILE+VIEWS&labelColor=FF9500" alt="Profile views" />
-  
+  </div>
 </p>
 
 
